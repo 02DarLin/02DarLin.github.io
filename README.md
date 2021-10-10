@@ -17,12 +17,12 @@ Here are some ideas to get you started:
     <head>
   </head>
   <body>
-    <a herf="实验一 1.html">实验一 1</a><br/>
-    <a herf="实验一 2.ntml">实验一 2</a><br/>
-    <a herf="实验一 3.html">实验一 3</a><br/>
-    <a herf="实验一 4.html">实验一 4</a><br/>
-    <a herf="实验一 5.html">实验一 5</a><br/>
-    <a herf="实验一 6.html">实验一 6</a><br/>
+    <a herf="实验一1.html">实验一 1</a><br/>
+    <a herf="实验一2.ntml">实验一 2</a><br/>
+    <a herf="实验一3.html">实验一 3</a><br/>
+    <a herf="实验一4.html">实验一 4</a><br/>
+    <a herf="实验一5.html">实验一 5</a><br/>
+    <a herf="实验一6.html">实验一 6</a><br/>
   </body>
   </html>
     
