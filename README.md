@@ -44,7 +44,7 @@
           <h1>这里是 <span class="name">徐煜</span></h1>
           <p>一个普普通通的学生</p>
           <a href="#about" class="btn btn-default btn-lg page-scroll">Learn More</a> </div>
-		  <audio src="D:\学习\网页制作\个人主页\DAOKO、米津玄師 - 打上花火.mp3" controls loop="loop" preload="auto"></audio>
+		  <audio src="DAOKO、米津玄師 - 打上花火.mp3" controls loop="loop" preload="auto"></audio>
     </div>
       </div>
     </div>
@@ -82,7 +82,7 @@
       <hr>
     </div>
     <div class="row">
-      <div class="col-md-12 text-center"><img src="D:\学习\网页制作\个人主页\自拍.jpg"></div>
+      <div class="col-md-12 text-center"><img src="自拍.jpg"></div>
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
           <p>我是来自华东交通大学数据科学与大数据技术2019-1的一名学生。<br>
@@ -103,7 +103,7 @@
       <p style="color: white;font-size: 20px;">挑战自我，拿下高分</p>
       <p style="color: white;font-size: 20px;">点击按钮进入游戏</p>
     </div>
-    <input type="button" value="mini-game" onclick="window.open('D:\学习\网页制作\个人主页\game\game.html')" class="lls">
+    <input type="button" value="mini-game" onclick="window.open('game.html')" class="lls">
     </div>
   </div>
 </section>
@@ -135,70 +135,70 @@
               <div class="hover-text">
                 <h4>Project</h4>
                 <small>APEX</small> </div>
-              <img src="D:\学习\网页制作\个人主页\APEX.jfif" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="APEX.jfif" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 app">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="D:\学习\网页制作\个人主页\明日方舟.jpg"title="明日方舟" rel="prettyPhoto">
+            <div class="hover-bg"> <a href="明日方舟.jpg"title="明日方舟" rel="prettyPhoto">
               <div class="hover-text">
                 <h4>明日方舟</h4>
                 <small>明日方舟</small> </div>
-              <img src="D:\学习\网页制作\个人主页\明日方舟.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="明日方舟.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 web">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="D:\学习\网页制作\个人主页\APEX2.jfif" title="APEX" rel="prettyPhoto">
+            <div class="hover-bg"> <a href="APEX2.jfif" title="APEX" rel="prettyPhoto">
               <div class="hover-text">
                 <h4>Project</h4>
                 <small>APEX</small> </div>
-              <img src="D:\学习\网页制作\个人主页\APEX2.jfif" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="APEX2.jfif" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 web">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="D:\学习\网页制作\个人主页\APEX3.jfif" title="APEX" rel="prettyPhoto">
+            <div class="hover-bg"> <a href="APEX3.jfif" title="APEX" rel="prettyPhoto">
               <div class="hover-text">
                 <h4>Project</h4>
                 <small>APEX</small> </div>
-              <img src="D:\学习\网页制作\个人主页\APEX3.jfif" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="APEX3.jfif" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 app">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="D:\学习\网页制作\个人主页\明日方舟2.jpg" title="明日方舟" rel="prettyPhoto">
+            <div class="hover-bg"> <a href="明日方舟2.jpg" title="明日方舟" rel="prettyPhoto">
               <div class="hover-text">
                 <h4>明日方舟</h4>
                 <small>明日方舟</small> </div>
-              <img src="D:\学习\网页制作\个人主页\明日方舟2.jpg" class="img-responsive" alt="明日方舟"> </a> </div>
+              <img src="明日方舟2.jpg" class="img-responsive" alt="明日方舟"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 branding">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="D:\学习\网页制作\个人主页\动漫.jfif" title="动漫" rel="prettyPhoto">
+            <div class="hover-bg"> <a href="动漫.jfif" title="动漫" rel="prettyPhoto">
               <div class="hover-text">
                 <h4>动漫</h4>
                 <small>动漫</small> </div>
-              <img src="D:\学习\网页制作\个人主页\动漫.jfif" class="img-responsive" alt="动漫"> </a> </div>
+              <img src="动漫.jfif" class="img-responsive" alt="动漫"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 branding">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="D:\学习\网页制作\个人主页\动漫2.jfif" title="动漫" rel="prettyPhoto">
+            <div class="hover-bg"> <a href="动漫2.jfif" title="动漫" rel="prettyPhoto">
               <div class="hover-text">
                 <h4>动漫</h4>
                 <small>动漫</small> </div>
-              <img src="D:\学习\网页制作\个人主页\动漫2.jfif" class="img-responsive" alt="动漫"> </a> </div>
+              <img src="动漫2.jfif" class="img-responsive" alt="动漫"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 app">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="D:\学习\网页制作\个人主页\明日方舟3.jpg" title="明日方舟" rel="prettyPhoto">
+            <div class="hover-bg"> <a href="明日方舟3.jpg" title="明日方舟" rel="prettyPhoto">
               <div class="hover-text">
                 <h4>明日方舟</h4>
                 <small>明日方舟</small> </div>
-              <img src="D:\学习\网页制作\个人主页\明日方舟3.jpg" class="img-responsive" alt="明日方舟"> </a> </div>
+              <img src="明日方舟3.jpg" class="img-responsive" alt="明日方舟"> </a> </div>
           </div>
         </div>
       </div>
@@ -211,11 +211,11 @@
       <hr>
     </div>
     <div class="wen1">
-      <img class="mig1" src="D:\学习\网页制作\个人主页\黑帮摇.gif" alt="rotate" />
+      <img class="mig1" src="黑帮摇.gif" alt="rotate" />
       <p style="color: white;font-size: 23px;">黑帮摇,指《JOJO的奇妙冒险：黄金之风》动画第7话第5分38秒左右开始出现的名场景。</p>
     </div>
     <div class="wen2">
-      <img class="mig1" src="D:\学习\网页制作\个人主页\明日方舟2.gif" alt="rotate" />
+      <img class="mig1" src="明日方舟2.gif" alt="rotate" />
       <p style="color: white;font-size: 23px;">中门对狙，网络流行语，出自游戏《反恐精英》中炙热沙城2地图中的一种操作，即双方在中门处相互窥视、狙杀。也可以泛指双方相互伤害、互相狙杀对方的局面。</p>
     </div>
   </div>
@@ -227,7 +227,7 @@
     </div>
     <div>
       <video controls="controls" height="650" width="1000" style="object-fit:fill">
-        <source src="D:\学习\网页制作\个人主页\“纵有疾风起，生命不言弃”_哔哩哔哩_bilibili 2021-09-13 14_49.mp4" type="video/mp4">
+        <source src="“纵有疾风起，生命不言弃”_哔哩哔哩_bilibili 2021-09-13 14_49.mp4" type="video/mp4">
       </video>
     </div>
 </section>
@@ -243,7 +243,7 @@
         <ul class="timeline">
           <li>
             <div class="timeline-image">
-              <a href="D:\学习\网页制作\个人主页\web\实验一.html target="_blank"><h4>实验一 <br>
+              <a href="实验一.html target="_blank"><h4>实验一 <br>
                 - <br>
                 分为六个实验 </h4></a>
             </div>
@@ -257,7 +257,7 @@
           </li>
           <li class="timeline-inverted">
             <div class="timeline-image">
-              <a href="D:\学习\网页制作\个人主页\web\实验二.html" target="_blank"><h4>实验二 <br>
+              <a href="实验二.html" target="_blank"><h4>实验二 <br>
                 - <br>
                 分为四个实验 </h4></a>
             </div>
@@ -272,7 +272,7 @@
           </li>
           <li>
             <div class="timeline-image">
-              <a href="D:\学习\网页制作\个人主页\web\实验三.html" target="_blank"><h4>实验三 <br>
+              <a href="实验三.html" target="_blank"><h4>实验三 <br>
                 - <br>
                 分为六个实验 </h4></a>
             </div>
@@ -287,7 +287,7 @@
           </li>
           <li class="timeline-inverted">
             <div class="timeline-image">
-              <a href="D:\学习\网页制作\个人主页\web\实验四.html" target="_blank"><h4>实验四 <br>
+              <a href="实验四.html" target="_blank"><h4>实验四 <br>
                 - <br>
                 分为六个实验 </h4></a>
             </div>
@@ -302,7 +302,7 @@
           </li>
           <li>
             <div class="timeline-image">
-              <a href="D:\学习\网页制作\个人主页\web\实验五.html" target="_blank"><h4>实验五 <br>
+              <a href="实验五.html" target="_blank"><h4>实验五 <br>
                 - <br>
                 PS操作 </h4></a>
             </div>
@@ -317,7 +317,7 @@
           </li>
           <li class="timeline-inverted">
             <div class="timeline-image">
-              <a href="D:\学习\网页制作\个人主页\web\实验六.html" target="_blank"><h4>实验六 <br>
+              <a href="实验六.html" target="_blank"><h4>实验六 <br>
                 - <br>
                 制作动画 </h4></a>
             </div>
@@ -332,7 +332,7 @@
           </li>
           <li>
             <div class="timeline-image">
-              <a href="D:\学习\网页制作\个人主页\web\实验七.html" target="_blank"><h4>实验七 <br>
+              <a href="实验七.html" target="_blank"><h4>实验七 <br>
                 - <br>
                 Javascript </h4></a>
             </div>
